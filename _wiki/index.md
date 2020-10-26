@@ -15,4 +15,4 @@ Greentea is an operating system based on open source code. The main idea of the 
 
 ## Wiki
 
-Nothing in the list :-D
+Wiki will be ready when the project enter beta.
