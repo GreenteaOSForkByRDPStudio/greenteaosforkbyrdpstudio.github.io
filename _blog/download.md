@@ -5,7 +5,7 @@ title: Releases
 
 Greentea OS is a free operating system written from scratch, but more user and production oriented. We would first make it *actually* usable for day-to-day use.
 
-## Napture.2020.10
+### Napture.2020.10
 
 #### Change log
 
