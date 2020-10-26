@@ -11,4 +11,4 @@ title: Releases
 
 #### Download link
 
-[Download](https://greenteaosforkbyrdpstudio.github.io/blog/release/Napture.2020.10/greenteaos-uefi64.iso)
+[![Download](https://greenteaosforkbyrdpstudio.github.io/blog/icon/down.png)](https://greenteaosforkbyrdpstudio.github.io/blog/release/Napture.2020.10/greenteaos-uefi64.iso)
